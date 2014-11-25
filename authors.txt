@@ -1,0 +1,2 @@
+javer = javer <javer@domain.tld>
+AdelinaSun = AdelinaSun <inna.suprun@gmail.com>
